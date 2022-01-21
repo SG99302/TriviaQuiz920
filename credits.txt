@@ -1,0 +1,16 @@
+Images:
+
+General Knowledge Quiz Image: https://quizquestions.net/wp-content/uploads/2020/03/General-Knowledge-Quiz-Questions-2020-752x400.jpg
+Film Quiz Image: https://www.pngkit.com/png/detail/689-6892614_clapboard-png-clipart-clapperboard-clip-art.png
+Video Game Quiz Image: https://www.vhv.rs/dpng/d/409-4090777_thumb-image-video-game-controller-clipart-hd-png.png
+Science Quiz Image: https://www.clipartmax.com/png/small/21-219804_test-tube-icon-clipart-free-clip-art-images-test-tube-clip-art.png
+Math Quiz Image: https://webstockreview.net/images/fraction-clipart-used-daily-life-15.png
+Sports Quiz Image: https://www.pngitem.com/pimgs/m/20-202735_sports-icon-transparent-png-clipart-free-download-transparent.png
+
+Favicon:
+
+https://www.flaticon.com/premium-icon/ideas_3261308?term=trivia%20quiz&related_id=3261308
+
+API - Open Trivia API:
+
+https://opentdb.com/api_config.php

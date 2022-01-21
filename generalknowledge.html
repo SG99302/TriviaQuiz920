@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>General Knowledge Quiz</title>
+	<script src="quizproject_gk.js"></script>
+	<link rel="stylesheet" type="text/css" href="quizproject.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  
+</head>
+<body>
+
+<div id="lightbox" onclick="closeLightBox()">
+   <div id="message">This is a message</div>
+</div>
+
+<div id="home">
+<a href="index.html"><i class="fa fa-home fa-2x"></i></a><br>
+<a href="index.html"><strong>Home</strong></a>
+</div>
+
+<div id="next">
+<a href="film.html"><i class="fa fa-arrow-circle-right fa-2x"></i></a><br>
+<a href="film.html"><strong>Film Quiz</strong></a>
+</div>
+
+<h1>Trivia Quiz: General Knowledge</h1>
+
+
+<div class="grid-container">
+  <div class="header">
+    <div id="question"></div>
+  </div>
+  
+  <div class="left">
+    <div>
+    
+     <div class="options" id="a" onclick="markIt('a')">A.</div>
+	 <div class="options" id="b" onclick="markIt('b')">B.</div>
+     <div class="options" id="c" onclick="markIt('c')">C.</div>
+	 <div class="options" id="d" onclick="markIt('d')">D.</div>
+	</div>
+  </div> 
+
+  
+  <div class="right"></div>
+  
+  <div class="footer1">
+    <div id="countdown"></div>
+  </div>
+  
+  <div class="footer3">
+	<div id="diff"></div>
+	</div>
+  
+  <div class="footer4">
+	<button id="retry" onclick="retry()">Retry</button>
+  </div>
+  
+  <div class="footer2">
+   <p><strong>Score  <span id="score"></span></strong></p>
+  </div>
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
